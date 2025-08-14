@@ -19,7 +19,7 @@ const EditProfileDialog = () => (
       Edit
     </SheetTrigger>
 
-    <SheetContent className="top-2 right-2 bottom-2 w-[508px] rounded">
+    <SheetContent className="top-2 right-2 bottom-2 w-2/3 md:w-1/2 lg:w-1/3 rounded">
       <SheetHeader className="px-8 pt-4 flex-row justify-between items-center">
         <SheetTitle className="text-xl font-semibold">Edit Security</SheetTitle>
         <SheetClose className="">
